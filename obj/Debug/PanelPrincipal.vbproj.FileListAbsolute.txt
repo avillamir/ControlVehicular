@@ -1,0 +1,58 @@
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.exe.config
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.exe
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.pdb
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.xml
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.AssemblyReference.cache
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.SuggestedBindingRedirects.cache
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Resources.resources
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.GenerateResource.cache
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.CoreCompileInputs.cache
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.exe
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.xml
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.pdb
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\FontAwesome.Sharp.dll
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.CopyComplete
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form2.resources
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.SubPanel.resources
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form3.resources
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.exe.manifest
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.application
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.exe.manifest
+H:\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.application
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.exe.config
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.exe.manifest
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.application
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.exe
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.pdb
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\PanelPrincipal.xml
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\bin\Debug\FontAwesome.Sharp.dll
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.AssemblyReference.cache
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.SuggestedBindingRedirects.cache
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.SubPanel.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form2.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form3.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Resources.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.GenerateResource.cache
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.CoreCompileInputs.cache
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.exe.manifest
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.application
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.vbproj.CopyComplete
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.exe
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.xml
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.pdb
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form4.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form5.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form6.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form7.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form8.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form9.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form10.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form11.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form12.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form13.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form14.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form15.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form16.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form17.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form18.resources
+E:\CTercer Ciclo\tercer ciclo\PROYECTOS\Panel de Control\MenúPrincipal\PanelPrincipal\PanelPrincipal\obj\Debug\PanelPrincipal.Form19.resources
